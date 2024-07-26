@@ -7,4 +7,7 @@ The choice of categories and glyphs is taken from [the APL wiki](https://aplwiki
 and the greyed out glyphs are those not yet provided by the font.
 ![glyph preview](glyph_preview.png)
 
+all supported glyphs, including those originally contained in the Courier Prime font:
+![supported glyphs](supported_glyphs.png)
+
 Any suggestions for addition and restyling of glyphs are welcome.
